@@ -3,17 +3,13 @@
 
 ```yaml
 MYHBlog-|
-		|-blog-admin # 后端后台项目模块
-		|-blog-common # 公共模块
-		|-blog-front # 后端前台模块
+	|-blog-admin # 后端后台项目模块
+	|-blog-common # 公共模块
+	|-blog-front # 后端前台模块
 
 
 blog-front-|
-		   |-front-admin # 前端后台项目
-		   |-front-blog # 前端后台项目
-```
-
-
-
-​	
+	   |-front-admin # 前端后台项目
+	   |-front-blog # 前端后台项目
+```	
 
